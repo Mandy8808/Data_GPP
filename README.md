@@ -3,4 +3,15 @@ In this repository, we present a set of numerical radial scalar profiles that ar
 
 Folders:
 - Jupyter_Notebook_profiles: In this folder 
-- Data: In this folder the a
+- Data: This folder containt two folders, "ground_state" and "first_excited_state" with the tables 
+
+| Stretch/Untouched | ProbDistribution | Accuracy |
+| --- | --- | --- |
+| Stretched | Gaussian | .843 |
+
+
+correspondent to 
+
+the numerical prof
+
+have the table 
